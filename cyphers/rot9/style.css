@@ -1,4 +1,5 @@
 
+
 body{
 	background-image:url("../img/background.jpg");
 	background-size:auto;
@@ -9,7 +10,6 @@ body{
 	background-color: #FFCBA1;
 	margin:0 auto;
 }
-
 h1{
 	text-align:center;
 	padding-top:5%;
@@ -40,12 +40,13 @@ h1{
 }
 
 .input_area{
-	background-image:url("../img/base64.png");	
+	background-image:url("../img/caesar.png");	
 	height:300px;
 	width:90%;
 	margin:0 auto;
 	background-position:center;
 	background-size:cover;
+	
 }
 
 .text_area{
